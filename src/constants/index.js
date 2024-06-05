@@ -18,9 +18,9 @@ import {
     aws,
     python,
     Ai,
-    carrent,
-    jobit,
-    tripguide,
+    Nova,
+    Attendance,
+    basketBall,
     threejs,
   } from "../assets";
   
@@ -131,7 +131,7 @@ import {
     {
       title: "Generative AI",
       company_name: "Large Language Models",
-      icon: Ai, //change with AI
+      icon: Ai,
       iconBg: "#E6DEDD",
       date: "December 2023",
       points: [
@@ -185,67 +185,67 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Nova FPS",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Simple First person shooter game developed in Unity using C#. The game was made by me and my university group and aim to entertain as many people as possible.",
       tags: [
         {
-          name: "react",
+          name: "Unity",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "C#",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Blender",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: Nova,
+      source_code_link: "https://github.com/LucaDonadello/NOVA-FPS",
     },
     {
-      name: "Job IT",
+      name: "Attendance Application",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "The Attendance Application integrates a JavaFX desktop app for professors with a user-friendly interface and a web app with JavaScript, HTML, CSS, Ajax frontend, and a Java backend for administrators.",
       tags: [
         {
-          name: "react",
+          name: "Java",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "JavaFX",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "JavaScript",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: Attendance,
+      source_code_link: "https://github.com/LucaDonadello/Project-4485",
     },
     {
-      name: "Trip Guide",
+      name: "BasketBall Application",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "The NBA database system is an application that allows users to search and collect data forstatistical data-gathering purposes easily. Users will also be able to narrow their search by filtering results.",
       tags: [
         {
           name: "nextjs",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "MYSQL",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "JavaScript",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: basketBall,
+      source_code_link: "https://github.com/LucaDonadello/BasketballDatabase",
     },
   ];
   

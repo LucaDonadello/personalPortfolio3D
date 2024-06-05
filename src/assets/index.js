@@ -25,9 +25,9 @@ import aws from "./company/aws.png";
 import python from "./company/python.png";
 import Ai from "./company/Ai.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import Nova from "./Nova.png";
+import Attendance from "./Attendance.png";
+import basketBall from "./basketball.png";
 
 export {
   logo,
@@ -54,7 +54,7 @@ export {
   aws,
   python,
   Ai,
-  carrent,
-  jobit,
-  tripguide,
+  Nova,
+  Attendance,
+  basketBall,
 };
