@@ -159,27 +159,24 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+        "Your dedication and innovation in computer science inspire us. Your problem-solving and enthusiasm set a high standard.",
+      name: "Jonhatan Lee",
+      designation: "Student",
+      company: "UTD",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+        "Working with you was a pleasure. Your professionalism made the project smooth and efficient. Let's collaborate again soon!",
+      name: "Mohammad Basar",
+      designation: "Student",
+      company: "UTD",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+        "Your leadership made the project a success. Your clear direction kept us on track. It was great and easy working with you.",
+      name: "Samuel Benicewicz",
+      designation: "Student",
+      company: "UTD",
     },
   ];
   
