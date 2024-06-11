@@ -167,7 +167,7 @@ import {
     {
       testimonial:
         "Working with you was a pleasure. Your professionalism made the project smooth and efficient. Let's collaborate again soon!",
-      name: "Mohammad Basar",
+      name: "Sugkirthy Sridhar",
       designation: "Student",
       company: "UTD",
     },
