@@ -13,8 +13,8 @@ import {
     nodejs,
     mongodb,
     git,
-    figma,
-    docker,
+    java,
+    pythonLogo,
     aws,
     python,
     Ai,
@@ -104,12 +104,12 @@ import {
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "java",
+      icon: java,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "pythonLogo",
+      icon: pythonLogo,
     },
   ];
   
@@ -184,7 +184,7 @@ import {
     {
       name: "Nova FPS",
       description:
-        "Simple First person shooter game developed in Unity using C#. The game was made by me and my university group and aim to entertain as many people as possible.",
+        "Simple First person shooter game developed in Unity using C#. The game was made by me and my university group and aim to entertain as many people as possible and learn the basics of game development.",
       tags: [
         {
           name: "Unity",
