@@ -18,6 +18,7 @@ import {
     aws,
     python,
     Ai,
+    deeplearningLogo,
     Nova,
     Attendance,
     basketBall,
@@ -152,6 +153,19 @@ import {
         "Security and Compliance: Learn AWS security practices, IAM, encryption, and compliance standards.",
         "Monitoring and Management: Gain skills in monitoring with CloudWatch, managing resources, and automating infrastructure.",
         "Cost Optimization: Master AWS pricing models, cost management strategies, and tools for controlling spending.",
+      ],
+    },
+    {
+      title: "Machine Learning Specialization",
+      company_name: "Deep Learning AI",
+      icon: deeplearningLogo,
+      iconBg: "#383E56",
+      date: "July 2024",
+      points: [
+        "Predictive Modeling: Master building and training supervised models for prediction and classification tasks using NumPy and scikit-learn.",
+        "Deep Learning Mastery: Develop neural networks with TensorFlow for multi-class classification, expanding into advanced machine learning techniques.",
+        "Algorithmic Versatility: Explore decision trees, ensemble methods, and unsupervised learning like clustering and anomaly detection for diverse data challenges.",
+        "Intelligent Systems Creation: Build recommender systems using collaborative filtering and deep learning, and apply deep reinforcement learning for adaptive decision-making.",
       ],
     },
   ];

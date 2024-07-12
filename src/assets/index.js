@@ -24,6 +24,7 @@ import threejs from "./tech/threejs.png";
 import aws from "./company/aws.png";
 import python from "./company/python.png";
 import Ai from "./company/Ai.png";
+import deeplearningLogo from "./company/deeplearningLogo.png";
 
 import Nova from "./Nova.png";
 import Attendance from "./Attendance.png";
@@ -54,6 +55,7 @@ export {
   aws,
   python,
   Ai,
+  deeplearningLogo,
   Nova,
   Attendance,
   basketBall,
