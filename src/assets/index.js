@@ -29,6 +29,7 @@ import deeplearningLogo from "./company/deeplearningLogo.png";
 import Nova from "./Nova.png";
 import Attendance from "./Attendance.png";
 import basketBall from "./basketball.png";
+import TaskTracker from  "./TaskTracker.png";
 
 export {
   logo,
@@ -59,4 +60,5 @@ export {
   Nova,
   Attendance,
   basketBall,
+  TaskTracker,
 };

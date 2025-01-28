@@ -22,6 +22,7 @@ import {
     Nova,
     Attendance,
     basketBall,
+    TaskTracker,
     threejs,
   } from "../assets";
   
@@ -196,9 +197,9 @@ import {
   
   const projects = [
     {
-      name: "Nova FPS",
+      name: "VR Target Simulator",
       description:
-        "Simple First person shooter game developed in Unity using C#. The game was made by me and my university group and aim to entertain as many people as possible and learn the basics of game development.",
+        "The VR Hand-Tracking Target Simulator, built with Unity and the Meta SDK, uses advanced hand-tracking to let users shoot, reload, and teleport, showcasing seamless interaction in VR.",
       tags: [
         {
           name: "Unity",
@@ -209,12 +210,33 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "Blender",
+          name: "VR",
           color: "pink-text-gradient",
         },
       ],
       image: Nova,
       source_code_link: "https://github.com/LucaDonadello/NOVA-FPS",
+    },
+    {
+      name: "Task Tracker",
+      description:
+        "The Idea Tracker app helps users efficiently organize and manage ideas by providing a simple interface to record titles, descriptions, technologies, and goals, making it easy to revisit or expand concepts.",
+      tags: [
+        {
+          name: "Reactjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Docker",
+          color: "green-text-gradient",
+        },
+        {
+          name: "JavaScript",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: TaskTracker,
+      source_code_link: "https://github.com/LucaDonadello/BasketballDatabase",
     },
     {
       name: "Attendance Application",
@@ -236,27 +258,6 @@ import {
       ],
       image: Attendance,
       source_code_link: "https://github.com/LucaDonadello/Project-4485",
-    },
-    {
-      name: "BasketBall Application",
-      description:
-        "The NBA database system is an application that allows users to search and collect data forstatistical data-gathering purposes easily. Users will also be able to narrow their search by filtering results.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "MYSQL",
-          color: "green-text-gradient",
-        },
-        {
-          name: "JavaScript",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: basketBall,
-      source_code_link: "https://github.com/LucaDonadello/BasketballDatabase",
     },
   ];
   
