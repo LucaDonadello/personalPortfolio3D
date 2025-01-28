@@ -43,7 +43,7 @@ const About = () => {
         As a graduate student at the University of Texas at Dallas studying
         computer science, my broad interests include web and application
         development, cyber security, and AI. After spending most of
-        my life in Italy, I moved to Dallas three years ago for a better
+        my life in Italy, I moved to Dallas four years ago for a better
         opportunity to develop and become familiar with American culture. I am
         seeking a job where I can apply all the knowledge I have gained from my
         years of academic experience.

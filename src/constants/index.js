@@ -176,7 +176,7 @@ import {
     {
       testimonial:
         "Your dedication and innovation in computer science inspire us. Your problem-solving and enthusiasm set a high standard.",
-      name: "Jonhatan Lee",
+      name: "Jonathan Lee",
       designation: "Student",
       company: "UTD",
     },
