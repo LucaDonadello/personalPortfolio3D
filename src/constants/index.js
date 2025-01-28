@@ -24,6 +24,7 @@ import {
     basketBall,
     TaskTracker,
     threejs,
+    VRGame,
   } from "../assets";
   
   export const navLinks = [
@@ -214,8 +215,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: Nova,
-      source_code_link: "https://github.com/LucaDonadello/NOVA-FPS",
+      image: VRGame,
+      source_code_link: "https://github.com/LucaDonadello/TargetSimulatorTool",
     },
     {
       name: "Task Tracker",
@@ -236,7 +237,7 @@ import {
         },
       ],
       image: TaskTracker,
-      source_code_link: "https://github.com/LucaDonadello/BasketballDatabase",
+      source_code_link: "https://github.com/LucaDonadello/TaskTracker",
     },
     {
       name: "Attendance Application",
@@ -257,7 +258,7 @@ import {
         },
       ],
       image: Attendance,
-      source_code_link: "https://github.com/LucaDonadello/Project-4485",
+      source_code_link: "https://github.com/LucaDonadello/AttendanceSystemUTD",
     },
   ];
   

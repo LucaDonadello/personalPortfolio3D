@@ -30,6 +30,7 @@ import Nova from "./Nova.png";
 import Attendance from "./Attendance.png";
 import basketBall from "./basketball.png";
 import TaskTracker from  "./TaskTracker.png";
+import VRGame from "./VRGame.png";
 
 export {
   logo,
@@ -61,4 +62,5 @@ export {
   Attendance,
   basketBall,
   TaskTracker,
+  VRGame,
 };
