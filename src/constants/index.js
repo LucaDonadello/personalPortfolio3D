@@ -25,6 +25,8 @@ import {
     TaskTracker,
     threejs,
     VRGame,
+    milabLogo,
+    paycomLogo
   } from "../assets";
   
   export const navLinks = [
@@ -116,8 +118,33 @@ import {
     },
   ];
   
-  //for the moment leave name experience but inlcude awards -- add expereiences later on
   const experiences = [
+    {
+      title: "Software Developer",
+      company_name: "Paycom",
+      icon: paycomLogo,
+      iconBg: "#383E56",
+      date: "April 2025 - February 2026",
+      points: [
+        "Develop and maintain scalable enterprise applications supporting payroll and HR management systems used by thousands of businesses.",
+        "Design and implement backend services and APIs to improve data processing, system performance, and reliability across internal platforms.",
+        "Collaborate with cross-functional teams including product managers, QA engineers, and other developers to deliver high-quality features in an Agile development environment.",
+        "Write clean, maintainable code and contribute to debugging, optimization, and continuous improvement of existing software solutions."
+      ],
+    },
+    {
+      title: "Research Assistant",
+      company_name: "Multimodal Interaction (MI) Laboratory",
+      icon: milabLogo,
+      iconBg: "#383E56",
+      date: "October 2024 - March 2025",
+      points: [
+        "Develop immersive virtual reality simulations using Unity and C# to study human-computer interaction and improve user engagement.",
+        "Design and implement gesture-based interaction systems to enhance usability and reliability in VR environments.",
+        "Integrate haptic feedback mechanisms to create more realistic and responsive virtual experiences.",
+        "Collaborate with researchers to prototype, test, and present emerging interaction technologies through weekly technical demonstrations."
+      ],
+    },
     {
       title: "Machine Learning Specialization",
       company_name: "Deep Learning AI",
@@ -155,19 +182,6 @@ import {
         "ML & Deep Learning: Learn techniques like supervised/unsupervised learning and deep neural networks.",
         "Data Processing: Acquire skills in cleaning data, feature selection, and transformation.",
         "Model Optimization: Understand how to evaluate and optimize AI models for better performance.",
-      ],
-    },
-    {
-      title: "100 days of code",
-      company_name: "Python bootcamp",
-      icon: python,
-      iconBg: "#383E56",
-      date: "August 2023",
-      points: [
-        "Python Fundamentals: Mastering Python basics provides the foundation for complex application development.",
-        "Data Structures & Algorithms: Proficiency in data structures aids efficient problem-solving and coding optimization.",
-        "Object-Oriented Programming (OOP): Understanding OOP enables modular, reusable code for large-scale projects.",
-        "Problem-Solving Skills: Coding tasks enhance problem-solving ability, vital in software development.",
       ],
     },
   ];
