@@ -8,6 +8,7 @@
   </head>
   <body>
     <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
+    <!-- use relative path so build resolves and deployed HTML doesn’t hit root -->
+    <script type="module" src="./src/main.jsx"></script>
   </body>
 </html>

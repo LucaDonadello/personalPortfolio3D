@@ -159,19 +159,6 @@ import {
       ],
     },
     {
-      title: "AWS",
-      company_name: "Cloud Technical Essentials",
-      icon: aws,
-      iconBg: "#E6DEDD",
-      date: "March 2024",
-      points: [
-        "Core Services Overview: Understand essential AWS services like compute, storage, networking, and databases.",
-        "Security and Compliance: Learn AWS security practices, IAM, encryption, and compliance standards.",
-        "Monitoring and Management: Gain skills in monitoring with CloudWatch, managing resources, and automating infrastructure.",
-        "Cost Optimization: Master AWS pricing models, cost management strategies, and tools for controlling spending.",
-      ],
-    },
-    {
       title: "Generative AI",
       company_name: "Large Language Models",
       icon: Ai,
