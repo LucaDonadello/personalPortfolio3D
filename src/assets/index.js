@@ -25,6 +25,8 @@ import aws from "./company/aws.png";
 import python from "./company/python.png";
 import Ai from "./company/Ai.png";
 import deeplearningLogo from "./company/deeplearningLogo.png";
+import milabLogo from "./company/milabLogo.png";
+import paycomLogo from "./company/paycomLogo.png"
 
 import Nova from "./Nova.png";
 import Attendance from "./Attendance.png";
@@ -63,4 +65,6 @@ export {
   basketBall,
   TaskTracker,
   VRGame,
+  paycomLogo,
+  milabLogo
 };
